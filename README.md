@@ -1,4 +1,4 @@
-# Ex-07 Create a commercial website using HTML & CSS
+# Ex-09 Create a commercial website using HTML & CSS
 ## AIM:-
 To create a commercial website using HTML & CSS.
 
